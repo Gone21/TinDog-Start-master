@@ -1,2 +1,1 @@
-# TinDog-Start-master
-First Project
+TinDog Starting Files
